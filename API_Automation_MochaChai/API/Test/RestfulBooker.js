@@ -137,10 +137,6 @@ describe("Restful booker API Test", function(){
         .set("Cookie", "token=" + token)
 
         expect(response.status).to.be.eql(404);
-
     });
-
-
-
 
 })
