@@ -2,8 +2,10 @@
 
 This Repository consist of ... Project realate about SQA and Automatioin :
 1. Javascript Task for Java Basic Program
-2. 
+2. API Automation with Mocha and Chai
 3. 
+4.
+5.
 
 ## Javascript Task
 
@@ -25,3 +27,9 @@ npm install --save prompt-sync
 ```
 - node Number1.js for running the Number1.js
 - node Number2.js for running the Number2.js
+
+## API Automation with Mocha and Chai
+
+in this folder, i'm doing end to end API Automation testing with this sample [Restfull Booker](https://restful-booker.herokuapp.com/apidoc/index.html) using Supertest, Mocha and Chai.
+
+the result will be generated using Mochawesome reporter and show summary of the test.
