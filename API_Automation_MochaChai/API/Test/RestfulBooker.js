@@ -3,7 +3,6 @@ const expect = require("chai").expect;
 
 describe("Restful booker API Test", function(){
 
-    //test
     var token;
     var bookingId;
 
