@@ -1,0 +1,22 @@
+{
+  "name": "api_automation_mochachai",
+  "version": "1.0.0",
+  "description": "Api Automation with Mocha-Chai Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [
+    "API",
+    "Automation",
+    "Mocha",
+    "Chai"
+  ],
+  "author": "Herdian Chandra",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "supertest": "^6.3.1"
+  }
+}
